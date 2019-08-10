@@ -1,5 +1,5 @@
 import React from 'react';
-import StaticList from "./StaticList";
+//import StaticList from "./StaticList"; No longer needed for this exercise.
 import DynamicList from "./DynamicList";
 
 class App extends React.Component {
