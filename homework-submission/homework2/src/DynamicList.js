@@ -1,8 +1,5 @@
 import React from 'react';
 
-//workingon must enable buttons to remove tasks.
-//also change parameters that will after return
-
 class ToDoDynamic extends React.Component {
     constructor() {
         super()
