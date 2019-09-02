@@ -1,0 +1,19 @@
+body {
+	min-height: 100%;
+	width: 100%;
+	font: 400 16px/165% -apple-system, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: #222;
+	text-align: center;
+	background: #8fc06c;
+	position: absolute;
+}
+
+div {
+	min-height: 100%;
+	width: 100%;
+	font: 400 16px/165% -apple-system, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: #222;
+	text-align: center;
+	background: #8fc06c;
+	position: absolute;
+}
